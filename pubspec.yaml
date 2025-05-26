@@ -9,6 +9,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_localization: ^0.3.2
+  animate_do: ^4.2.0
+  intl: ^ 0.20.2
+  fl_chart: ^1.0.0
+  shared_preferences: ^2.5.3
+  flutter_slidable: ^4.0.0
+  lottie: ^3.3.1
+  cupertino_icons: ^1.0.8
 
 dev_dependencies:
   flutter_test:
